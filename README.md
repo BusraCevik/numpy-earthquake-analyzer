@@ -19,7 +19,7 @@ It performs data cleaning, time-based aggregation, magnitude and depth analysis,
 
 #### Interactive Global Earthquake Map
 
-🖱️: ̗̀➛ <a href="https://busracevik.github.io/numpy-earthquake-analyzer/docs/index.html" target="_blank"> Interactive Earthquake Map (LIVE)</a>
+🖱️: ̗̀➛ <a href="https://busracevik.github.io/numpy-earthquake-analyzer/index.html" target="_blank"> Interactive Earthquake Map (LIVE)</a>
 
 ---
 
