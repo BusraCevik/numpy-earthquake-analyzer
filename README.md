@@ -14,11 +14,10 @@ It performs data cleaning, time-based aggregation, magnitude and depth analysis,
 #### Magnitude vs Depth (Scatter Plot)
 ![Magnitude vs Depth Scatter](data/outputs/scatter_depth_mag.png)
 
-###![Interactive Map Video](docs/interactive_country_map_demo.gif)
+#### Global Earthquake – Map Visualization
+![Interactive Map Video](docs/interactive_country_map_demo.gif)
 
 #### Interactive Global Earthquake Map
-
-
 
 🖱️: ̗̀➛ <a href="https://busracevik.github.io/numpy-earthquake-analyzer/docs/earthquake_animation.html" target="_blank"> Interactive Earthquake Map (LIVE)</a>
 
