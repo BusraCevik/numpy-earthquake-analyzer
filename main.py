@@ -62,5 +62,5 @@ df_plotly = prepare_plotly_df(lat, lon, mag, years)
 
 create_animated_map(
     df_plotly,
-    output_path=os.path.join(DOCS_DIR, 'earthquake_animation.html')
+    output_path=os.path.join(DOCS_DIR, 'index.html')
 )
