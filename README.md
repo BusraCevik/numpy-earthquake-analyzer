@@ -9,13 +9,10 @@ It performs data cleaning, time-based aggregation, magnitude and depth analysis,
 ### Example Outputs
 
 #### Magnitude vs Depth (Histogram)
-![Magnitude vs Depth Histogram](earthquake-analyzer/data/outputs/hist_depth_mag.png)
+![Magnitude vs Depth Histogram](data/outputs/hist_depth_mag.png)
 
 #### Magnitude vs Depth (Scatter Plot)
-![Magnitude vs Depth Scatter](earthquake-analyzer/data/outputs/scatter_depth_mag.png)
-
-#### Country-wise Earthquake Analysis
-![Country-wise Earthquake Analysis](earthquake-analyzer/data/outputs/country_earthquake_stats.png)
+![Magnitude vs Depth Scatter](data/outputs/scatter_depth_mag.png)
 
 ###![Interactive Map Video](docs/interactive_country_map_demo.gif)
 
@@ -23,7 +20,7 @@ It performs data cleaning, time-based aggregation, magnitude and depth analysis,
 
 
 
-🖱️: ̗̀➛ <a href="https://busracevik.github.io/earthquake-analyzer/docs/earthquake_animation.html" target="_blank"> Interactive Earthquake Map (LIVE)</a>
+🖱️: ̗̀➛ <a href="https://busracevik.github.io/numpy-earthquake-analyzer/docs/earthquake_animation.html" target="_blank"> Interactive Earthquake Map (LIVE)</a>
 
 ---
 
