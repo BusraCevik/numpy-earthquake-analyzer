@@ -27,7 +27,6 @@ def prepare_plotly_df(latitudes, longitudes, magnitudes, years):
     return df_plotly
 
 def create_animated_map(df_plotly, output_path=None):
-    import plotly.express as px
     mag_min = df_plotly['Magnitude'].min()
     mag_max = df_plotly['Magnitude'].max()
 
